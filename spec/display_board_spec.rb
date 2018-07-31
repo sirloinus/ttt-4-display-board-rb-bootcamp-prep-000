@@ -147,7 +147,6 @@ describe "#display_board in 'lib/display_board.rb" do
       expect(rows[2]).to eq(" X | X | X ")
       expect(rows[3]).to eq("-----------")
       expect(rows[4]).to eq(" X | X | X ")
-    end
     
       # Should you want to write your own test for this situation,
       # read the following code and comments.
